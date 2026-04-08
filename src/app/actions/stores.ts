@@ -34,6 +34,26 @@ function generateSlug(name: string): string {
     .slice(0, 100)
 }
 
+// Generate a unique slug with optional suffix
+async function generateUniqueSlug(supabase: any, name: string): Promise<string> {
+  const baseSlug = generateSlug(name)
+
+  // Check if base slug exists
+  const { data: existing } = await supabase
+    .from('stores')
+    .select('slug')
+    .eq('slug', baseSlug)
+    .maybeSingle()
+
+  if (!existing) {
+    return baseSlug
+  }
+
+  // If exists, append a random 4-character suffix
+  const suffix = Math.random().toString(36).substring(2, 6)
+  return `${baseSlug}-${suffix}`
+}
+
 export async function createStore(formData: FormData) {
   const supabase = await createServerSupabaseClient()
   const { data: { user } } = await supabase.auth.getUser()
@@ -54,18 +74,7 @@ export async function createStore(formData: FormData) {
   }
 
   const { name, description } = validatedFields.data
-  const slug = generateSlug(name)
-
-  // Check if slug already exists
-  const { data: existingStore } = await supabase
-    .from('stores')
-    .select('id')
-    .eq('slug', slug)
-    .single()
-
-  if (existingStore) {
-    return { error: { message: 'A store with this name already exists' } }
-  }
+  const slug = await generateUniqueSlug(supabase, name)
 
   const { data: store, error } = await (supabase
     .from('stores') as any)
