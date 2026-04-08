@@ -1,0 +1,53 @@
+receipt_number,transaction_date,sku,product_name,quantity,unit_price,discount_amount,tax_amount,payment_method,customer_name,customer_email,customer_phone,location_name
+RCP-20250325-001,2025-03-25 06:15:00,BEV-001,Coca-Cola 20oz,2,2.49,0.00,0.41,card,Mike Johnson,mike.j@email.com,555-0101,Main Floor
+RCP-20250325-001,2025-03-25 06:15:00,SNK-001,Lay's Classic Chips,1,2.29,0.00,0.19,card,Mike Johnson,mike.j@email.com,555-0101,Main Floor
+RCP-20250325-002,2025-03-25 06:23:00,BEV-007,Gatorade Cool Blue,1,3.29,0.00,0.27,cash,Sarah Williams,sarah.w@email.com,555-0102,Cooler
+RCP-20250325-002,2025-03-25 06:23:00,SNK-013,Chex Mix,2,1.79,0.00,0.29,cash,Sarah Williams,sarah.w@email.com,555-0102,Cooler
+RCP-20250325-002,2025-03-25 06:23:00,SNK-014,Pretzels,1,1.79,0.00,0.15,cash,Sarah Williams,sarah.w@email.com,555-0102,Cooler
+RCP-20250325-003,2025-03-25 06:45:00,TOB-001,Marlboro Red,2,10.99,1.00,1.81,card,David Brown,david.b@email.com,555-0103,Front Counter
+RCP-20250325-003,2025-03-25 06:45:00,TOB-002,Newport Box,1,10.99,0.00,0.91,card,David Brown,david.b@email.com,555-0103,Front Counter
+RCP-20250325-004,2025-03-25 07:05:00,BEV-012,Monster Energy,1,3.99,0.00,0.33,mobile,Emily Davis,emily.d@email.com,555-0104,Cooler
+RCP-20250325-004,2025-03-25 07:05:00,SNK-017,Beef Jerky,1,1.49,0.00,0.12,mobile,Emily Davis,emily.d@email.com,555-0104,Main Floor
+RCP-20250325-005,2025-03-25 07:12:00,ESS-001,Whole Milk Gallon,1,4.49,0.00,0.37,card,James Miller,james.m@email.com,555-0105,Cooler
+RCP-20250325-005,2025-03-25 07:12:00,ESS-003,White Bread,1,3.99,0.00,0.33,card,James Miller,james.m@email.com,555-0105,Bakery Shelf
+RCP-20250325-005,2025-03-25 07:12:00,ESS-012,Eggs Dozen,1,3.99,0.00,0.33,card,James Miller,james.m@email.com,555-0105,Cooler
+RCP-20250325-006,2025-03-25 07:30:00,BEV-002,Diet Coke 20oz,1,2.49,0.00,0.21,cash,Lisa Garcia,lisa.g@email.com,555-0106,Cooler
+RCP-20250325-006,2025-03-25 07:30:00,SNK-002,Doritos Nacho,1,2.49,0.00,0.21,cash,Lisa Garcia,lisa.g@email.com,555-0106,Main Floor
+RCP-20250325-006,2025-03-25 07:30:00,SNK-009,Cheetos Crunchy,2,1.29,0.00,0.21,cash,Lisa Garcia,lisa.g@email.com,555-0106,Main Floor
+RCP-20250325-007,2025-03-25 07:45:00,BEER-004,Corona 6-Pack,1,19.99,0.00,1.65,card,Robert Martinez,robert.m@email.com,555-0107,Liquor Room
+RCP-20250325-008,2025-03-25 08:05:00,ESS-020,Toilet Paper 4-Pack,1,12.99,0.00,1.07,mobile,Jennifer Lee,jennifer.l@email.com,555-0108,Back Shelf
+RCP-20250325-008,2025-03-25 08:05:00,ESS-023,Bottled Water 24pk,1,3.99,0.00,0.33,mobile,Jennifer Lee,jennifer.l@email.com,555-0108,Cooler
+RCP-20250325-009,2025-03-25 08:15:00,BEV-003,Sprite 20oz,1,2.49,0.00,0.21,card,Michael Wilson,michael.w@email.com,555-0109,Cooler
+RCP-20250325-009,2025-03-25 08:15:00,BEV-004,Mountain Dew 20oz,1,2.49,0.00,0.21,card,Michael Wilson,michael.w@email.com,555-0109,Cooler
+RCP-20250325-009,2025-03-25 08:15:00,BEV-005,Dr Pepper 20oz,1,2.49,0.00,0.21,card,Michael Wilson,michael.w@email.com,555-0109,Cooler
+RCP-20250325-009,2025-03-25 08:15:00,BEV-006,Pepsi 20oz,1,2.49,0.00,0.21,card,Michael Wilson,michael.w@email.com,555-0109,Cooler
+RCP-20250325-010,2025-03-25 08:30:00,TOB-003,Camel Blue,2,10.49,2.00,1.73,cash,Amanda Taylor,amanda.t@email.com,555-0110,Front Counter
+RCP-20250325-010,2025-03-25 08:30:00,SNK-004,Takis Fuego,1,4.49,0.00,0.37,cash,Amanda Taylor,amanda.t@email.com,555-0110,Main Floor
+RCP-20250325-010,2025-03-25 08:30:00,BEV-008,Red Bull 8.4oz,1,3.29,0.00,0.27,cash,Amanda Taylor,amanda.t@email.com,555-0110,Cooler
+RCP-20250325-011,2025-03-25 08:45:00,SNK-003,Cheetos Flamin Hot,2,2.49,0.00,0.41,card,Christopher Anderson,chris.a@email.com,555-0111,Main Floor
+RCP-20250325-011,2025-03-25 08:45:00,SNK-006,Pringles Original,1,3.49,0.00,0.29,card,Christopher Anderson,chris.a@email.com,555-0111,Main Floor
+RCP-20250325-011,2025-03-25 08:45:00,SNK-007,Funyuns,1,2.99,0.00,0.25,card,Christopher Anderson,chris.a@email.com,555-0111,Main Floor
+RCP-20250325-012,2025-03-25 09:00:00,BEER-005,Titos Vodka 750ml,2,15.99,0.00,2.64,card,Jessica Thomas,jessica.t@email.com,555-0112,Liquor Room
+RCP-20250325-012,2025-03-25 09:00:00,BEER-006,Crown Royal 750ml,1,18.99,0.00,1.57,card,Jessica Thomas,jessica.t@email.com,555-0112,Liquor Room
+RCP-20250325-013,2025-03-25 09:15:00,BEV-010,Arizona Tea,2,1.99,0.00,0.33,cash,Daniel Jackson,daniel.j@email.com,555-0113,Cooler
+RCP-20250325-013,2025-03-25 09:15:00,SNK-010,Trail Mix,1,1.99,0.00,0.16,cash,Daniel Jackson,daniel.j@email.com,555-0113,Main Floor
+RCP-20250325-013,2025-03-25 09:15:00,SNK-011,Sunflower Seeds,1,1.99,0.00,0.16,cash,Daniel Jackson,daniel.j@email.com,555-0113,Checkout Counter
+RCP-20250325-014,2025-03-25 09:30:00,ESS-021,Paper Towels,1,11.99,0.00,0.99,mobile,Elizabeth White,elizabeth.w@email.com,555-0114,Back Shelf
+RCP-20250325-014,2025-03-25 09:30:00,ESS-026,Dish Soap,2,2.99,0.00,0.49,mobile,Elizabeth White,elizabeth.w@email.com,555-0114,Back Shelf
+RCP-20250325-014,2025-03-25 09:30:00,ESS-027,Trash Bags,1,8.99,0.00,0.74,mobile,Elizabeth White,elizabeth.w@email.com,555-0114,Back Shelf
+RCP-20250325-015,2025-03-25 09:45:00,SNK-005,Chex Mix Traditional,1,2.29,0.00,0.19,card,Matthew Harris,matthew.h@email.com,555-0115,Main Floor
+RCP-20250325-015,2025-03-25 09:45:00,SNK-015,Goldfish Crackers,1,1.79,0.00,0.15,card,Matthew Harris,matthew.h@email.com,555-0115,Main Floor
+RCP-20250325-015,2025-03-25 09:45:00,SNK-016,Ritz Crackers,1,1.99,0.00,0.16,card,Matthew Harris,matthew.h@email.com,555-0115,Main Floor
+RCP-20250325-015,2025-03-25 09:45:00,SNK-017,Beef Jerky,1,1.49,0.00,0.12,card,Matthew Harris,matthew.h@email.com,555-0115,Main Floor
+RCP-20250325-016,2025-03-25 10:00:00,TOB-001,Marlboro Red,3,10.99,5.00,2.72,card,Ashley Martin,ashley.m@email.com,555-0116,Front Counter
+RCP-20250325-016,2025-03-25 10:00:00,TOB-004,Marlboro Menthol,1,11.49,0.00,0.95,card,Ashley Martin,ashley.m@email.com,555-0116,Front Counter
+RCP-20250325-016,2025-03-25 10:00:00,SNK-004,Takis Fuego,2,4.49,0.00,0.74,card,Ashley Martin,ashley.m@email.com,555-0116,Main Floor
+RCP-20250325-017,2025-03-25 10:15:00,ESS-008,Butter 1lb,1,6.99,0.00,0.58,cash,Joshua Thompson,joshua.t@email.com,555-0117,Cooler
+RCP-20250325-017,2025-03-25 10:15:00,ESS-018,Orange Juice,1,2.49,0.00,0.21,cash,Joshua Thompson,joshua.t@email.com,555-0117,Cooler
+RCP-20250325-017,2025-03-25 10:15:00,ESS-019,Coffee Creamer,1,3.49,0.00,0.29,cash,Joshua Thompson,joshua.t@email.com,555-0117,Cooler
+RCP-20250325-018,2025-03-25 10:30:00,BEV-009,Arizona Green Tea,1,2.99,0.00,0.25,mobile,Stephanie Robinson,stephanie.r@email.com,555-0118,Cooler
+RCP-20250325-018,2025-03-25 10:30:00,SNK-012,Granola Bars,1,2.49,0.00,0.21,mobile,Stephanie Robinson,stephanie.r@email.com,555-0118,Main Floor
+RCP-20250325-018,2025-03-25 10:30:00,SNK-018,Candy Bar,1,1.49,0.00,0.12,mobile,Stephanie Robinson,stephanie.r@email.com,555-0118,Checkout Counter
+RCP-20250325-019,2025-03-25 10:45:00,ESS-024,Aluminum Foil,1,5.99,0.00,0.49,card,Andrew Clark,andrew.c@email.com,555-0119,Back Shelf
+RCP-20250325-019,2025-03-25 10:45:00,ESS-025,Ziploc Bags,1,4.99,0.00,0.41,card,Andrew Clark,andrew.c@email.com,555-0119,Back Shelf
+RCP-20250325-019,2025-03-25 10:45:00,ESS-028,Laundry Detergent,1,8.99,0.00,0.74,card,Andrew Clark,andrew.c@email.com,555-0119,Back Shelf
